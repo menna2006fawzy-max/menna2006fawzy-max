@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/PROFILE_VIEWS-65+-red?style=for-the-badge" alt="Views"/>
-  <img src="https://img.shields.io/badge/FOLLOWERS-45+-red?style=for-the-badge" alt="Followers"/>
+  <img src="https://img.shields.io/badge/FOLLOWERS-50+-red?style=for-the-badge" alt="Followers"/>
   <img src="https://img.shields.io/badge/EXPERIENCE-Student-red?style=for-the-badge" alt="Experience"/>
   <img src="https://img.shields.io/badge/STATUS-Available-success?style=for-the-badge" alt="Status"/>
 </div>
